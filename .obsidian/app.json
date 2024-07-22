@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "Attachments"
+}

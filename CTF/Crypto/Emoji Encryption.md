@@ -1,0 +1,2 @@
+[Ecoji](https://ecoji.io/) encodes data as 1024 emojis. It’s *base1024 with an emoji character set*. As a bonus, this repo includes code to decode emojis to the original data they represent.
+🏯🌪🛵🤤💎🤡🐬👀👺🖍🎛👃👦🐇🦆🤜💎😏🍠👄👥🤐🏞🔧🏧🏄🚾📑

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d6e08975034f000d",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c6bac3390f7f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d31c9cae3b2bc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reports/OSCP/Skylark/192.168.170.221.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea2a9bba9e1746b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reports/OSCP/Skylark/10.10.197.13.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6d09cf26c1d3fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "609c62f402fd85fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38571c38107bff47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f1a2feeb632604e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tunnelin",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7ae6a68c70aab5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "047c6bf77fea5964",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e308a5579bac00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eae5f0ec6837bfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reports/OSCP/Skylark/10.10.197.13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18beeb4a8f067431",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e34ca4a92eea4c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0a526cb9f68734e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ea2a9bba9e1746b7",
+  "lastOpenFiles": [
+    "README.md",
+    "Reports/OSCP/Skylark/10.10.197.10.md",
+    "Reports/OSCP/Skylark/10.10.197.12.md",
+    "Reports/OSCP/Skylark/192.168.170.221.md",
+    "Privilege Escalation/Windows PrivEsc/File Search Commands.md",
+    "Reports/OSCP/Skylark/172.16.229.30.md",
+    "Reports/OSCP/Skylark/10.10.197.13.md",
+    "Reports/OSCP/Skylark/192.168.170.225.md",
+    "Reports/OSCP/Skylark/192.168.170.224 (amsterdam05).md",
+    "Reports/OSCP/Skylark/192.168.170.223.md",
+    "Reports/OSCP/Skylark/192.168.170.222 (PARIS03).md",
+    "Reports/OSCP/Skylark/192.168.170.220 (HOUSTON01).md",
+    "Privilege Escalation/Linux PrivEsc/Tunneling.md",
+    "Active Directory/Enumeration/Bloodhound.md",
+    "Privilege Escalation/Windows PrivEsc/Automation.md",
+    "Reports/OSCP/Skylark/Internal Info.md",
+    "Active Directory/Attacks/Kerberoasting.md",
+    "Active Directory/Attacks/AS-REP Roasting.md",
+    "Privilege Escalation/Windows PrivEsc/Weak Service Permissions.md",
+    "Privilege Escalation/Windows PrivEsc/Unquoted Service Path.md",
+    "Privilege Escalation/Windows PrivEsc/Manual Enumeration.md",
+    "Privilege Escalation/Windows PrivEsc/Path Fix.md",
+    "Reports/OSCP/Flags.md",
+    "Privilege Escalation/Windows PrivEsc/Groups Privileges.md",
+    "Privilege Escalation/Windows PrivEsc/File Transfer Methods.md",
+    "Privilege Escalation/Windows PrivEsc/Dump Passwords.md",
+    "Reports/OSCP/Skylark",
+    "Attachments/Pasted image 20240713131714.png",
+    "Reports/OSCP/OSCP C",
+    "Reports/OSCP/OSCP B",
+    "Attachments/Pasted image 20240708135310.png",
+    "Reports/OSCP/OSCP A",
+    "Privilege Escalation/FreeBSD PrivEsc",
+    "Attachments/Pasted image 20240705125637.png",
+    "Reports/OSCP/Relia/Internal Network",
+    "Attachments/Pasted image 20240702104639.png",
+    "Reports/OSCP/Relia",
+    "Attachments/1_E85BnyPd47bDGs7626Kzqw.webp",
+    "Reports/OSCP/Medtech/Internal Network",
+    "Reports/OSCP/Medtech",
+    "Reports/OSCP/Module 24",
+    "Attachments/Pasted image 20240626111551.png",
+    "Attachments/Pasted image 20240621101316.png",
+    "Attachments/Pasted image 20240621100937.png",
+    "Attachments/Pasted image 20240621100729.png",
+    "Attachments/Pasted image 20240621095728.png"
+  ]
+}

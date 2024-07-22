@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "d6e08975034f000d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6403bf950aace996",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Graphics/Polygon Algorithms.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6d09cf26c1d3fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "609c62f402fd85fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38571c38107bff47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f1a2feeb632604e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wireshar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "047c6bf77fea5964",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e308a5579bac00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eae5f0ec6837bfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Graphics/Polygon Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18beeb4a8f067431",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e34ca4a92eea4c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6403bf950aace996",
+  "lastOpenFiles": [
+    "Computer Graphics/Polygon Algorithms.md",
+    "Computer Graphics/Basics.md",
+    "Programming/Git/Basics.md",
+    "Programming/Git/Cheatsheet.md",
+    "Programming/Git/Github Config.md",
+    "Programming/Git/Git Ignore.md",
+    "Programming/React/Components, Props, Events, Lists.md",
+    "Programming/React/ES6.md",
+    "Programming/React/Theory, Basics, Conditions.md",
+    "Programming/React/Setup.md"
+  ]
+}

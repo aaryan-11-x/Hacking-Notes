@@ -1,0 +1,2 @@
+In macOS, a common file present in many folders is the `.DS_Store` file. This file is used by the Finder to store custom attributes of a folder, such as the position of icons or the choice of a background image. It's a hidden file, and its presence is usually harmless.
+They make it convenient for you to have a consistent view when you open a folder on your Mac. However, these files are meant for macOS system use and aren't necessary for the actual data in your folders, so they're often hidden.

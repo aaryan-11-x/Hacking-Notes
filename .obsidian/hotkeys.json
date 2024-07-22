@@ -1,0 +1,30 @@
+{
+  "hotkeysplus-obsidian:duplicate-lines-down": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "multi-column-markdown:insert-multi-column-region": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-underline:toggle-link-block": [],
+  "obsidian-underline:toggle-link-heading": [],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
+}

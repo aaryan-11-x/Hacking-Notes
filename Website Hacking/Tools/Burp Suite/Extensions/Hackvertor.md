@@ -1,0 +1,1 @@
+https://trustedsec.com/blog/what-is-hackvertor-and-why-should-i-care
